@@ -1,0 +1,12 @@
+Enter Name, age, status(true or false) and duration of membership in months: 
+Pradyot Bilurkar
+20
+True
+24
+Customer name : Pradyot Bilurkar
+Customer age : 20
+Membeship status : true
+The membership fee permonth is $50. 
+The total cost of membership for 24 months is : $1200
+
+Process finished with exit code 0
