@@ -1,0 +1,7 @@
+String s1 : Hello
+String s2 :  World!
+Original String : Original String
+
+Is s1 == s2? : false
+Copy of Original string in new string : Original String
+Concatenating s1 and s2 : Hello World!
