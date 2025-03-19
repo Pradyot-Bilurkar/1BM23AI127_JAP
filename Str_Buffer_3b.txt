@@ -1,0 +1,9 @@
+Capacity of String Buffer object s1 : 16
+String s2 : Hello
+Capacity of String Buffer s2 : 21
+Enter a string : 
+olleh
+Reversed string in upper case : HELLO
+Enter a string to append : 
+WORLD!
+String after appending : HELLOWORLD!
