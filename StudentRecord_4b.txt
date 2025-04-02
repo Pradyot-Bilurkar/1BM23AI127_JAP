@@ -1,0 +1,13 @@
+Enter Score of student 1 : 
+90
+Enter Score of student 2 : 
+87
+Enter Score of student 3 : 
+96
+Enter Score of student 4 : 
+60
+Enter Score of student 5 : 
+80
+Sum of scores : 413
+Average of scores : 82.0
+Highest scores : 96
