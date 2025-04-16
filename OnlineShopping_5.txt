@@ -1,0 +1,8 @@
+Item added
+Item added
+Product Name: Pencil, Price: 5, Category: Stationary
+Product Name: Headphones, Price: 5000, Category: Electronics
+
+After removing Pencil : 
+
+Product Name: Headphones, Price: 5000, Category: Electronics
