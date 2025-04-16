@@ -1,0 +1,9 @@
+Item id: 101, Quantity: 100, Price: 5000
+Item id: 102, Quantity: 500, Price: 7000
+
+Item found!
+
+
+After removing item number 101 : 
+
+Item id: 102, Quantity: 500, Price: 7000
