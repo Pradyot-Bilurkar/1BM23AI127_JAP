@@ -1,1 +1,0 @@
-Is Monday a working day? : true
